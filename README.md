@@ -15,6 +15,8 @@ I like turning messy data into decisions: SQL and dashboards to understand a bus
 | [Energy Demand Forecasting](https://github.com/BilalBess/energy-demand-forecasting) | Day-ahead hourly forecast of French electricity demand, benchmarked against the official RTE forecast | Time series, gradient boosting |
 | [French Movie Reviews NLP](https://github.com/BilalBess/french-movie-reviews-nlp) | Sentiment analysis on 200k French reviews, error analysis and learning curve | TF-IDF, linear models |
 | [MovieLens Recommender](https://github.com/BilalBess/movielens-recommender) | Recommender system written from scratch (ALS, item-item CF), rating vs ranking evaluation | numpy, scipy |
+| [A/B Testing & Uplift](https://github.com/BilalBess/ab-testing-uplift) | Analysis of a 64k-customer e-mail experiment: randomisation check, Holm correction, power, Bayesian view, uplift model, peeking simulation | statistics, scikit-learn |
+| [Velib' Data Pipeline](https://github.com/BilalBess/velib-data-pipeline) | Hourly collection of all Velib' stations with GitHub Actions, data quality checks, SQL marts and a dashboard | Python, DuckDB, GitHub Actions, Streamlit |
 
 Academic projects:
 - [Dynamic Routing over Specialized Small Language Models](https://github.com/BilalBess/REPORT_TER): routing queries to small specialised LLMs. About 34% less energy than Llama-3.1-8B on 450 queries, and a much better score on math.
@@ -22,11 +24,11 @@ Academic projects:
 
 ## Skills
 **Languages:** Python, SQL, R
-**Data & ML:** pandas, scikit-learn, statsmodels, time series, NLP, recommender systems
-**BI & tools:** Power BI (DAX), Streamlit, Plotly, Git
+**Data & ML:** pandas, scikit-learn, statsmodels, A/B testing, time series, NLP, recommender systems
+**BI & tools:** Power BI (DAX), Streamlit, Plotly, DuckDB, Git, GitHub Actions (CI), pytest
 
 ## About my projects
-The six projects above use public data, a proper train/test protocol, a README with the method, the results and the limitations. 
+The eight projects above use public data, a proper train/test protocol, a README with the method, the results and the limitations. 
 
 ## Contact
 📍Paris, open to international · 🔗 [LinkedIn](https://www.linkedin.com/in/bilal-bessaa-862319264/) · ✉️ bilalbessaa42@yahoo.com
