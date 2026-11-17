@@ -1,7 +1,7 @@
 # Hi, I'm Bilal 👋
 
 M2 student in **Machine Learning & Data Mining** at Université Jean Monnet (Saint-Étienne).
-I am looking for a **6-month internship starting February 2027**, in **Paris**, as a **Data Analyst / Data Scientist / ML engineer**.
+I am looking for a **6-month internship starting March 2027**, in **Paris**, as a **Data Analyst / Data Scientist / ML engineer**.
 
 I like turning messy data into decisions: SQL and dashboards to understand a business, machine learning to predict and recommend, and clear reporting (including the limits of my results).
 
