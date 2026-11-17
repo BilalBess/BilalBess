@@ -26,7 +26,7 @@ Academic projects:
 **BI & tools:** Power BI (DAX), Streamlit, Plotly, Git
 
 ## About my projects
-The six projects above use public data, a proper train/test protocol, a README with the method, the results and the limitations. I used an AI assistant (Claude) to help me build their structure and code, and I review and explain each project myself. The academic projects are my own coursework.
+The six projects above use public data, a proper train/test protocol, a README with the method, the results and the limitations. 
 
 ## Contact
-📍 Saint-Étienne, open to Paris · 🔗 [LinkedIn](https://www.linkedin.com/in/bilal-bessaa-862319264/) · ✉️ bilalbessaa42@yahoo.com
+📍Paris, open to international · 🔗 [LinkedIn](https://www.linkedin.com/in/bilal-bessaa-862319264/) · ✉️ bilalbessaa42@yahoo.com
